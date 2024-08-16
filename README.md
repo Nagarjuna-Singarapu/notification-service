@@ -78,7 +78,6 @@ Copy Code
   "text": "This is a test email."
 }
 Send the Request:
-
 Click the Send button.
 Check the response to see if the email was sent successfully or if there was an error.
 
